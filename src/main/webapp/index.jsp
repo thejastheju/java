@@ -53,10 +53,9 @@
 <body>
     <h1>Welcome to Jenkins Pipeline!</h1>
     <p>Your automated CI/CD journey begins.</p>
-    <p> Testing </p>
-    
+
     <footer>
-        &copy; 2024 
+        &copy; 2024 TJ
     </footer>
 </body>
 </html>
